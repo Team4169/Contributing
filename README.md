@@ -17,7 +17,7 @@ Add blank lines in your code when it makes sense. A good rule of thumb for addin
 Try and keep your comments short, and informative. No one wants to read a novel.
 
 #Git
-Use the Github Glow([5 minute guide](https://guides.github.com/introduction/flow/)) model. 
+Use the Github Flow([5 minute guide](https://guides.github.com/introduction/flow/)) model. 
 
 ##Github Flow TLDR
 The master branch of a repository **always** has stable code. This means that at any given time we could clone down the master branch and run it on the robot. 
