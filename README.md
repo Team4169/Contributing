@@ -5,15 +5,15 @@ When contributing to Team 4169 repositories please try and follow these guidelin
 
 #Code
 Please try and write neat code. What does this mean?
-##Naming
+###Naming
 When naming variables and functions please try and name them based on what they do.  
 **Good**: `xAxisSensitivity`, `turnOnRadio()`  
 **Bad**: `baconIsTheBest`, `klsdjfsdklfdsjsdklf()`
 
-##Spacing
+###Spacing
 Add blank lines in your code when it makes sense. A good rule of thumb for adding line breaks is to add a blank line when you start doing a new thing. For example you could be defining variables and then you start calling functions, add an empty line.
 
-##Comments
+###Comments
 Try and keep your comments short, and informative. No one wants to read a novel.
 
 #Git
@@ -24,7 +24,7 @@ The master branch of a repository **always** has stable code. This means that at
 
 If you want to make a change to the code create a new branch from master. Then make you changes and submit a pull request. The other team members will review you code and eventually your code will be merged into the master branch.
 
-##Commits
+###Commits
 Please write clear and short commit messages. These messages should describe very quickly what you have changed in a commit.  
 
 If you are adding just one thing is a commit use a short sentence
@@ -36,7 +36,7 @@ However if you are adding more than one feature please use shorter messages
 +XBoxController Y button, +Mecanum Wheels, -Omni Wheels
 ```
 
-##Naming Branches
+###Naming Branches
 Always name your branch names based on what they are doing.
 
  For example if you are addressing an issue name it `issue-#` or `heartbleed-bug`.
